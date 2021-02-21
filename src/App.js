@@ -28,7 +28,7 @@ function App() {
   const filteredPosts = () => {
     const copyPosts = JSON.parse(JSON.stringify(posts))
     return copyPosts.filter(post => {
-      return post.title.includes(filterPost)
+      return post.title.toLowerCase().includes(filterPost.toLowerCase())
     })
   }
 
@@ -50,7 +50,6 @@ function App() {
   }
 
   const setPageCount = e => {
-    console.log(parseInt(e.target.value))
     setPostsPerPage(parseInt(e.target.value))
   }
   return (
