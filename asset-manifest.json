@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rostelecom-react/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/rostelecom-react/static/js/main.3c3b9e31.chunk.js",
-    "main.js.map": "/rostelecom-react/static/js/main.3c3b9e31.chunk.js.map",
+    "main.js": "/rostelecom-react/static/js/main.6b09631b.chunk.js",
+    "main.js.map": "/rostelecom-react/static/js/main.6b09631b.chunk.js.map",
     "runtime-main.js": "/rostelecom-react/static/js/runtime-main.1616ce64.js",
     "runtime-main.js.map": "/rostelecom-react/static/js/runtime-main.1616ce64.js.map",
     "static/js/2.eb478546.chunk.js": "/rostelecom-react/static/js/2.eb478546.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.1616ce64.js",
     "static/js/2.eb478546.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.3c3b9e31.chunk.js"
+    "static/js/main.6b09631b.chunk.js"
   ]
 }
