@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/rostelecom-react/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/rostelecom-react/static/js/main.3c3b9e31.chunk.js",
+    "main.js.map": "/rostelecom-react/static/js/main.3c3b9e31.chunk.js.map",
+    "runtime-main.js": "/rostelecom-react/static/js/runtime-main.1616ce64.js",
+    "runtime-main.js.map": "/rostelecom-react/static/js/runtime-main.1616ce64.js.map",
+    "static/js/2.eb478546.chunk.js": "/rostelecom-react/static/js/2.eb478546.chunk.js",
+    "static/js/2.eb478546.chunk.js.map": "/rostelecom-react/static/js/2.eb478546.chunk.js.map",
+    "index.html": "/rostelecom-react/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/rostelecom-react/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.eb478546.chunk.js.LICENSE.txt": "/rostelecom-react/static/js/2.eb478546.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/rostelecom-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1616ce64.js",
+    "static/js/2.eb478546.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.3c3b9e31.chunk.js"
+  ]
+}
